@@ -19,4 +19,5 @@ HTML, CSS, JavaScript, Git and GitHub, GitHub Pages, Netlify, SQL (Microsoft Acc
 
 ## Contact
 
-Email: your.email@gmail.com
+Email: fisnikzenuli37@gmail.com
+
